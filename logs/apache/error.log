@@ -1,0 +1,5 @@
+AH00557: httpd: apr_sockaddr_info_get() failed for USERnoiMac.local
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.0.1. Set the 'ServerName' directive globally to suppress this message
+[Sat Jul 20 10:18:02.875128 2024] [mpm_event:notice] [pid 3398:tid 140704635569920] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Sat Jul 20 10:18:02.875487 2024] [core:notice] [pid 3398:tid 140704635569920] AH00094: Command line: '/Users/lumi/Library/Application Support/Local/lightning-services/apache-2.4.43+8/bin/darwin/bin/httpd -D FOREGROUND -f /Users/lumi/Library/Application Support/Local/run/N2hVErCba/conf/apache/apache2.conf'
+[Sat Jul 20 11:49:56.436129 2024] [mpm_event:notice] [pid 3398:tid 140704635569920] AH00491: caught SIGTERM, shutting down
